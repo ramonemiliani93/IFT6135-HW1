@@ -52,6 +52,7 @@ To evaluate on a single model you can use the eval.py on the evaluation folder. 
 * `--image_dir` path to the folder containing test images.
 * `--model_path` path to the folder containing the pth model saved during training. 
 * `--image_dir` path to the folder where predictions are going to be saved.
+
 To evaluate on an ensemble of models you can use the eval_vote.py on the evaluation folder. The parameters slightly
  change:
 * `--image_dir` path to the folder containing test images.
