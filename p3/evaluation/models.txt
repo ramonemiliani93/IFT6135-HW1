@@ -1,0 +1,16 @@
+/home/user41/p3/experiments/resnet/experiment_1/best_model.pth
+/home/user41/p3/experiments/resnet/experiment_1/last_model.pth
+/home/user41/p3/experiments/resnet/experiment_2/best_model.pth
+/home/user41/p3/experiments/resnet/experiment_2/last_model.pth
+/home/user41/p3/experiments/resnet/experiment_3/best_model.pth
+/home/user41/p3/experiments/resnet/experiment_3/last_model.pth
+/home/user41/p3/experiments/resnet/experiment_4/best_model.pth
+/home/user41/p3/experiments/resnet/experiment_4/last_model.pth
+/home/user41/p3/experiments/resnet/experiment_5/best_model.pth
+/home/user41/p3/experiments/resnet/experiment_5/last_model.pth
+/home/user41/p3/experiments/resnet/experiment_6/best_model.pth
+/home/user41/p3/experiments/resnet/experiment_6/last_model.pth
+/home/user41/p3/experiments/resnet/experiment_7/best_model.pth
+/home/user41/p3/experiments/resnet/experiment_7/last_model.pth
+/home/user41/p3/experiments/vgg/experiment_1/best_model.pth
+/home/user41/p3/experiments/vgg/experiment_1/last_model.pth

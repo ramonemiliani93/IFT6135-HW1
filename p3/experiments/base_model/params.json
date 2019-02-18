@@ -1,0 +1,15 @@
+{
+    "cuda": true,
+    "random_seed": 23,
+    "ratio": 0.2,
+    "batch_size": 64,
+    "num_workers": 8,
+    "shuffle": true,
+    "save_summary_steps": 100,
+    "num_epochs": 50,
+    "learning_rate": 0.1,
+    "weight_decay": 0,
+    "dampening": 0.1,
+    "scheduler_epochs": [20, 35, 45],
+    "num_classes": 1
+}
